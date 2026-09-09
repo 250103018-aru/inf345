@@ -6,5 +6,5 @@ I learned that Git commits help track changes in a project.
 
 ## A command I want to remember
 
-(replace this line with an actual command and when you'd use it)
+git status - I use this command to check which files have been changed.
 
